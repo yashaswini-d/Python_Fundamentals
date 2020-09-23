@@ -27,3 +27,17 @@ Creating Variable name:
   2) x = y = z = "Orange"
   
 **OUTPUT VARIABLES**
+    The Python print statement is often used to output variables.
+    To combine both text and a variable, Python uses the + character:
+    
+  1) X = "YASHU"
+     print("my name is : " + X)
+     
+  2) x = "yash"
+     y = "kanthu"
+     print(x+y)
+        OR
+     z = x+y
+     print(z)
+     
+  
