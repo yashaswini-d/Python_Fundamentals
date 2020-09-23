@@ -1,0 +1,29 @@
+Creating Variables:
+    Variables are containers for storing data values.Unlike other programming languages, Python has no command for declaring a variable.
+    A variable is created when you assign a value to it.
+Creating Variable name:    
+    A variable can have a short name (like x and y) or a more descriptive name (age, carname, total_volume). Rules for Python variables:
+    A variable name must start with a letter or the underscore character
+    A variable name cannot start with a number
+    A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
+    Variable names are case-sensitive (age, Age and AGE are three different variables)
+    
+#Legal variable names:
+  myvar = "yashu"
+  my_var = "yashu"
+  _my_var = "yashu"
+  myVar = "yashu"
+  MYVAR = "yashu"
+  myvar2 = "yashu"
+
+#Illegal variable names:
+  2myvar = "yashu"
+  my-var = "yashu"
+  my var = "yashu"
+  
+**ASSIGN VALUE TO MULTIPLE VARIABLES**
+    Python allows you to assign values to multiple variables in one line:
+  1) x, y, z = "Orange", "Banana", "Cherry"
+  2) x = y = z = "Orange"
+  
+**OUTPUT VARIABLES**
